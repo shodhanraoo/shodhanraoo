@@ -32,7 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/> 
   <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="GitHub"/>
-  <img src="https://logo.svgcdn.com/l/postman.svg" alt="Postman Logo" width="40" />
+  <img src="https://logo.svgcdn.com/l/postman.png" alt="Postman Logo" width="70" />
+
+
 
 
  
