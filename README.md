@@ -1,15 +1,10 @@
 <h1 align="center" style="font-size: 48px;">Shodhan Rao</h1>
 
 <p align="center" style="font-size: 20px;">
-<b> Programmer || FullStack Web Developer || RPA Developer</b>
+<b> Programmer || FullStack Web Developer </b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shodhanraoo&style=flat-square"/>
-  <a href="https://shodhan-rao-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logo=appveyor" />
-  </a>
-</p>
+
 
 <h3>🔧 Skills</h3>
 <hr>
